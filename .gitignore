@@ -1,0 +1,5 @@
+Gerbers/**/*.zip
+*.bak
+fp-info-cache
+*-cache.lib
+*.kicad_pcb-bak
